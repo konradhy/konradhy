@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [konradhylton.com](konradhylton.com)
 
+- 💭 Currently learning about machine learning, Ai and neural networks
+
 - 📫 How to reach me **info@konradhylton.com**
 
 <h3 align="left">Portfolio Repositories:</h3>
