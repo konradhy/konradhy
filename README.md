@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Konrad.</h1>
 <h3 align="center">I'm a fullstack developer. I'm pretty lucky to have found a career that I love.</h3>
 
-- 🔭 I’m currently working on [LaunchLab Ai](https://github.com/konradhy/LaunchLab-Ai)
+- 🔭 I’m currently working on StoryCrafter Ai (Private Repo for my upcoming SaaS)
+  
+- 🔭 Plan on doing a bit more work on [LaunchLab Ai](https://github.com/konradhy/LaunchLab-Ai) shortly
 
-- 👨‍💻 All of my projects are available at [konradhylton.com](konradhylton.com)
+- 👨‍💻 Most of my projects are available at [konradhylton.com](konradhylton.com)
 
-- 💭 Currently learning about machine learning, Ai and neural networks
+- 💭 Specializing in generative AI, automation and solutions for small and mid-sized businesses
 
 - 📫 How to reach me **info@konradhylton.com**
 
