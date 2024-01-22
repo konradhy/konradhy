@@ -5,7 +5,7 @@
   
 - 🔭 Plan on doing a bit more work on [Jotion Ai](https://github.com/konradhy/build-jotion) shortly
 
-- 👨‍💻 Find more of my projects at [konradhylton.com](konradhylton.com)
+- 👨‍💻 Find more of my projects at [konradhylton.com](https://konradhylton.com)
 
 - 💭 Specializing in generative AI, automation and solutions for small and mid-sized businesses
 
