@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Konrad.</h1>
 <h3 align="center">I'm a fullstack developer. I'm pretty lucky to have found a career that I love.</h3>
 
-- 🔭 I’m currently working on StoryCrafter Ai (Private Repo for my upcoming SaaS)
+- 🔭 I’m currently focusing on Spotlight and Tavvy
   
-- 🔭 Plan on doing a bit more work on [LaunchLab Ai](https://github.com/konradhy/LaunchLab-Ai) shortly
+- 🔭 Plan on doing a bit more work on [Jotion Ai](https://github.com/konradhy/build-jotion) shortly
 
-- 👨‍💻 Most of my projects are available at [konradhylton.com](konradhylton.com)
+- 👨‍💻 Find more of my projects at [konradhylton.com](konradhylton.com)
 
 - 💭 Specializing in generative AI, automation and solutions for small and mid-sized businesses
 
