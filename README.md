@@ -9,7 +9,7 @@
 
 - 💭 Specializing in generative AI, automation and solutions for small and mid-sized businesses
 
-- 📫 How to reach me **info@konradhylton.com**
+
 
 <h3 align="left">Portfolio Repositories:</h3>
 
