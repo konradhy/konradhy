@@ -11,7 +11,7 @@
 
 <h3 align="left">Portfolio Repositories:</h3>
 
-- 💻 Jotion - [https://github.com/konradhy/AI-Dashboard](https://github.com/konradhy/build-jotion)
+- 💻 Jotion - https://github.com/konradhy/build-jotion
 
 
 - 💻 Mongoose Jobs - https://github.com/konradhy/Mongoose-Jobs
