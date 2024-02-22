@@ -14,10 +14,15 @@
 - 💻 Jotion - https://github.com/konradhy/build-jotion
 
 
+- 💻 Cipher Cup - https://github.com/konradhy/cipher-cup
+
+
 - 💻 Mongoose Jobs - https://github.com/konradhy/Mongoose-Jobs
 
 
 - 💻 LaunchLab  - https://github.com/konradhy/LaunchLab-Ai
+
+- 💻 Netflix 4 Youtube  - https://github.com/konradhy/Netflix-for-youtube
 <p align="left">
 </p>
 
