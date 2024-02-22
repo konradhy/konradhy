@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Konrad.</h1>
 <h3 align="center">I'm a fullstack developer. I'm pretty lucky to have found a career that I love.</h3>
 
-- 🔭 I’m currently focusing on Spotlight and Tavvy
+- 🔭 I’m currently focusing on Launchpie
   
 - 🔭 Plan on doing a bit more work on [Jotion Ai](https://github.com/konradhy/build-jotion) shortly
-
-- 👨‍💻 Find more of my projects at [konradhylton.com](https://konradhylton.com)
 
 - 💭 Specializing in generative AI, automation and solutions for small and mid-sized businesses
 
@@ -13,13 +11,13 @@
 
 <h3 align="left">Portfolio Repositories:</h3>
 
-- 💻 Ai Dashboard Ai - https://github.com/konradhy/AI-Dashboard
+- 💻 Jotion - [https://github.com/konradhy/AI-Dashboard](https://github.com/konradhy/build-jotion)
 
 
 - 💻 Mongoose Jobs - https://github.com/konradhy/Mongoose-Jobs
 
 
-- 💻 LaunchLab Ai - https://github.com/konradhy/LaunchLab-Ai
+- 💻 LaunchLab  - https://github.com/konradhy/LaunchLab-Ai
 <p align="left">
 </p>
 
