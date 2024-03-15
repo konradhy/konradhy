@@ -22,7 +22,7 @@
 
 - 💻 LaunchLab  - https://github.com/konradhy/LaunchLab-Ai
 
-- 💻 Netflix 4 Youtube  - https://github.com/konradhy/Netflix-for-youtube
+
 <p align="left">
 </p>
 
