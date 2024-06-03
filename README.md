@@ -1,9 +1,8 @@
  <h1 align="center">Hi 👋, I'm Konrad.</h1>
 <h3 align="center">I'm a fullstack developer. I'm pretty lucky to have found a career that I love.</h3>
 
-- 🔭 I’m currently focusing on Launchpie
-  
-- 🔭 Plan on doing a bit more work on [Jotion Ai](https://github.com/konradhy/build-jotion) shortly
+- 🔭 I’m currently focusing on Casefold. An app that helps attorneys read cases and legislation faster
+
 
 - 💭 Specializing in generative AI, automation and solutions for small and mid-sized businesses
 
@@ -11,16 +10,14 @@
 
 <h3 align="left">Portfolio Repositories:</h3>
 
+
+- 💻 LaunchPie - https://github.com/konradhy/launchpie-public
+
+
+- 💻 BattleArena - https://github.com/konradhy/battlearena
+
+
 - 💻 Jotion - https://github.com/konradhy/build-jotion
-
-
-- 💻 Cipher Cup - https://github.com/konradhy/cipher-cup
-
-
-- 💻 Mongoose Jobs - https://github.com/konradhy/Mongoose-Jobs
-
-
-- 💻 LaunchLab  - https://github.com/konradhy/LaunchLab-Ai
 
 
 <p align="left">
